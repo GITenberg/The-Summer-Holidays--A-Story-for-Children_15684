@@ -1,0 +1,28 @@
+_repo: The-Summer-Holidays--A-Story-for-Children_15684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15684-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Amerel
+    gutenberg_agent_id: '6196'
+    url: http://www.gutenberg.org/2009/agents/6196
+description: ''
+gutenberg_issued: '2005-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Domestic animals -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+title: 'The Summer Holidays: A Story for Children'
+url: http://www.gutenberg.org/ebooks/15684
